@@ -1,1 +1,1 @@
-# weather-forecasting-app-using-react
+# weather-forecasting using html css js
